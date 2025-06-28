@@ -21,6 +21,7 @@ This website was designed to highlight my profile and achievements in a clean an
 - 📜 Certifications with external certificate links
 - 🌐 Social links (LinkedIn, GitHub, LeetCode, CodeChef)
 - 📧 Contact details
+- ⛓️‍💥 Check it out - https://deepakg.ccbp.tech/
 
 ---
 
